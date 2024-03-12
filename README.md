@@ -2,7 +2,11 @@
 # Getting Started
 
 
-https://github.com/acepraveen/React-Native-Auth-flow/assets/53901682/440711f1-4cab-492d-a256-9b627fdfc1b1
+
+
+
+https://github.com/acepraveen/React-Native-Auth-flow/assets/53901682/aa8ca221-6634-4438-902c-dcf1759b668b
+
 
 
 

@@ -3,6 +3,7 @@
 
 
 
+![UserAuthFlow](https://github.com/acepraveen/React-Native-Auth-flow/assets/53901682/a76c9d2f-2570-4ce7-ac2e-adba30d88d59)
 
 
 https://github.com/acepraveen/React-Native-Auth-flow/assets/53901682/aa8ca221-6634-4438-902c-dcf1759b668b
